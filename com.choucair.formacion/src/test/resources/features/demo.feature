@@ -1,5 +1,3 @@
-
-#When: Some key actions
 #Then: To observe outcomes or validation
 #And,But: To enumerate more Given,When,Then stepstable
 #Background: List of steps run before each of the scenarios
