@@ -1,13 +1,3 @@
-#Then: To observe outcomes or validation
-#And,But: To enumerate more Given,When,Then stepstable
-#Background: List of steps run before each of the scenarios
-#""" (Doc Strings)
-#| (Data Tables)
-#@ (Tags/Labels):To group Scenarios
-#<> (placeholder)
-#""
-## (Comments)
-#Sample Feature Definition Template
 @tag
 Feature: Title of your feature
   I want to use this template for my feature file
